@@ -1,0 +1,7 @@
+# directories
+/target/
+
+# Files from root directory
+/rustvocalremover_integrated.exe
+/rustvocalremover_notintegrated.exe
+/uvr-mdx-hq-3.onnx
